@@ -1,0 +1,1 @@
+# Assistente-virtual-com-o-ChatGPT-utilizando-Whisper-OpenAI-e-Python
